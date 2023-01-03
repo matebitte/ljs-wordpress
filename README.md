@@ -7,7 +7,7 @@ Basisgruppen und Landesvebände sind sehr heterogen und ihre Kapazitäten für e
 
 <br/>
 
-## LJS Mode Theme
+## [LJS Mode Theme](https://github.com/matebitte/ljs-mode)
 _WordPress theme für die LJS_
 
 ### Known Bugs
@@ -22,7 +22,7 @@ _WordPress theme für die LJS_
 
 <br/>
 
-## LJS Tools Plugin
+## [LJS Tools Plugin](https://github.com/matebitte/ljs-tools)
 _Plugin für LJS spezifische post types und taxonomien_
 
 ### Known Bugs
